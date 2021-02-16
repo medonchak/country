@@ -1,0 +1,24 @@
+.item{
+    margin: 25px;
+    
+}
+
+.but{
+    margin-left: 5px;
+}
+.colTable{
+    color: black;
+    font-size: 25px;
+    background-color: blue;
+    border-right: solid 1px black;
+    border-bottom: solid 1px black;
+}
+.colElement{
+    color: black;
+    background-color:aqua;
+    border-bottom: solid 1px black;
+    border-right: solid 1px black;
+}
+.Header{
+    margin-top:5px;
+}
